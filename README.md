@@ -4,4 +4,4 @@ Welcome to the VS Code Java world. Here is a guideline to help you get started t
 
 ***** MODIFIED GITHUB
 
-hello this is my local branch - trying to create a conflict here!
+this is the master branch in github
